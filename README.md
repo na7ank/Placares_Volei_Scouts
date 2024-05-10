@@ -1,4 +1,4 @@
-# Contado de Pontuações
+# Contador de Pontuações
 Um contador para jogos de volei. Permite segmentar áreas da quadra e medir desempenho individual de cada jogador.
 
 ![Interface](scout.png)
